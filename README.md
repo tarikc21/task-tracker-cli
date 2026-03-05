@@ -42,5 +42,5 @@ dotnet run list
 - .NET
 - JSON file storage
 
-Project URL:
+## Project URL
 https://github.com/tarikc21/task-tracker-cli
