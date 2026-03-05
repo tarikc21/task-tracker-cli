@@ -41,3 +41,6 @@ dotnet run list
 - C#
 - .NET
 - JSON file storage
+
+Project URl:
+https://github.com/tarikc21/task-tracker-cli
